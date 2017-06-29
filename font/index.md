@@ -68,7 +68,7 @@ Type your text here
   </div>
 </div>
 
-<div class="p-strip is-deep is-bordered">
+<div class="p-strip is-bordered">
   <div class="row">
     <div class="col-8">
       <h2>Facts and figures</h2>
