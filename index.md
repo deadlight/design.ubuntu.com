@@ -30,7 +30,7 @@ body-class: "home"
   </div>
 </section>
 
-<section class="p-strip--accent  is-deep">
+<section class="p-strip--dark is-deep">
   <div class="row">
     <div class="col-8">
       <h2>Our values</h2>

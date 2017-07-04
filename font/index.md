@@ -57,7 +57,7 @@ Type your text here
   </div>
 </div>
 
-<div class="p-strip--accent is-deep">
+<div class="p-strip--dark  is-deep">
   <div class="row">
     <div class="col-8">
       <h2>About the Ubuntu font family</h2>
